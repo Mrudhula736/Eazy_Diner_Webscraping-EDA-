@@ -4,8 +4,6 @@
 This project focuses on **web scraping restaurant data from EazyDiner** and performing **data cleaning, transformation, and exploratory data analysis (EDA)** to extract meaningful insights.  
 The goal is to understand **restaurant pricing, ratings, cuisine distribution, and city-wise trends**.
 
----
-
 ## ⚙️ Workflow  
 
 ### 1. Web Scraping  
@@ -31,8 +29,6 @@ The goal is to understand **restaurant pricing, ratings, cuisine distribution, a
 - Count plots & Bar charts  
 - Heatmap & Pair plot  
 
----
-
 ## 📊 Key Insights  
 
 - Most restaurants fall in the **mid-price range (₹500–₹2000)**  
@@ -41,8 +37,6 @@ The goal is to understand **restaurant pricing, ratings, cuisine distribution, a
 - Metro cities like **Bengaluru, Delhi-NCR, and Mumbai** have the highest restaurant count  
 - There is **no strong correlation between cost and ratings**  
 
----
-
 ## 🛠️ Technologies Used  
 
 - Python 🐍  
@@ -50,16 +44,11 @@ The goal is to understand **restaurant pricing, ratings, cuisine distribution, a
 - Matplotlib & Seaborn  
 - BeautifulSoup (for web scraping)  
 
----
-
 ## 📁 Project Structure  
-├── eazy_diner.csv # Raw scraped data
-├── eazy_diner_Cleaned.csv # Cleaned dataset
-├── EDA_Notebook.ipynb # Jupyter Notebook with analysis
-└── README.md # Project documentation
-
-
----
+- eazy_diner.csv # Raw scraped data
+- eazy_diner_Cleaned.csv # Cleaned dataset
+- EDA_Notebook.ipynb # Jupyter Notebook with analysis
+- README.md # Project documentation
 
 ## 🎯 Conclusion  
 
